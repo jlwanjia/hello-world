@@ -1,5 +1,4 @@
 # hello-world
-repository
-hi, 
+Hi, 
 Jia is here, pretty love coding, let's sharing and communicating coding issues 
 
